@@ -1,0 +1,23 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "features": [
+        {
+            "title" : "Join the systerm",
+            "icon": "feature-tile-icon-01"
+        },
+        {
+            "title" : "Improve your skill",
+            "icon": "feature-tile-icon-02"
+        },
+        {
+            "title" : "Achieve dreams",
+            "icon": "feature-tile-icon-03"
+        }
+    ]
+  }
